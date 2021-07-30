@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://www.wallpapertip.com/wmimgs/112-1123292_live-casino.jpg");
+}
+
+#mainHeader {
+    color: white;
+    margin-top: 40px;
+    text-align: center;
+
+}
+
+#guessDiv {
+    color: white;
+    text-align: center;
+    text-shadow: 1.5px 1.5px black;
+    margin-top: 180px;
+}
+
+#results {
+    color: white;
+}
